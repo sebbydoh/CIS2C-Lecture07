@@ -15,3 +15,11 @@ console.log(circumference(8));
 
 // Function 3 
 
+function yourAge() {
+    console.log(statement());
+}
+
+function statement() {
+    return "Hello, your age is";
+}
+console.log(yourAge());
